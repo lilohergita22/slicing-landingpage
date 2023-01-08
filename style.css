@@ -1,0 +1,56 @@
+/* Navbar dan Login */
+.sign-up {
+  background-color: #ff7048;
+  color: #fff;
+  padding: 10px 10px;
+  border-radius: 15px;
+}
+
+.arrow-style {
+  margin: -50px 0 0 0px;
+}
+
+.flex-location-style {
+  /* margin-top: -100px;
+  z-index: -999; */
+
+  margin: -50px 100px 0 100px;
+  background-color: #fff;
+  border-radius: 20px;
+  /* z-index: 3; */
+}
+
+.dua {
+  margin: -50px 0 0 0;
+  z-index: -3;
+}
+
+/* btn orange */
+.btn-orange {
+  background-color: #ff7048;
+  color: #fff;
+}
+
+/* satuhijau */
+.hero-section {
+  background-image: url("img/HeroPicture.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 20px;
+  height: 450px;
+}
+
+.bg-green-light {
+  background-color: #dafff8;
+  color: #3a8375;
+}
+
+.bg-green-light-text {
+  color: #3a8375;
+}
+
+/* color */
+/* button seacr : FC8868 */
+/* bg : DAFFF8 */
+/* bg  a : 3A8375 */
